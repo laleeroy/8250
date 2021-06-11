@@ -265,3 +265,6 @@ ro.config.vc_call_vol_steps=10
 
 # WiFi
 wifi.aware.interface=wifi-aware0
+
+# WFD
+debug.sf.enable_hwc_vds=1
